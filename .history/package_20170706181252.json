@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server raspberry",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "nodemon -e index.js"
+  }
+}
